@@ -407,5 +407,3 @@ git push origin feature/novo-modelo-prompt
 
 Este projeto está licenciado sob a **Licença MIT**.  
 Consulte o arquivo [`LICENSE`](license) para mais detalhes.
-
->>>>>>> 6a09cc0c45ee030fc88bfa12da2ef8571ae8d813
